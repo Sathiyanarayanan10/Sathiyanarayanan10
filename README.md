@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on Flutter, Arduino 
 
-- 🌱 I’m currently learning Android development, Mathlab,  
+- 🌱 I’m currently learning Android development, Mathlab  
 
 - 👯 I’m looking to collaborate on Projects ,Tech Articles 
 
